@@ -16,6 +16,7 @@ public class Splash {
      */
     public static void main(String[] args) {
         System.out.println("jhgshjag");
+        // TODO code application logic here
     }
     
 }
